@@ -6,6 +6,6 @@ int main(void){
   printf("Enter 2 floats : ");
   scanf("%lf%lf", &a, &b);
   
-  printf("Ο μεγαλύτερος είναι %f", maxim(a,b));
+  printf("The bigger is %f", maxim(a,b));
   return 0;
   }
